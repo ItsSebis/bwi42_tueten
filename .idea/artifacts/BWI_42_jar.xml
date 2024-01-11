@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BWI_42:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BWI_42_jar</output-path>
+    <root id="archive" name="BWI_42.jar">
+      <element id="module-output" name="BWI_42" />
+    </root>
+  </artifact>
+</component>
